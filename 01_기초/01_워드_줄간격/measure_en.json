@@ -1,0 +1,132 @@
+{
+ "version": "16.0 build 16.0.20527",
+ "by_font": {
+  "Aptos 12pt": {
+   "Single": {
+    "lines": 4,
+    "avg_line_pitch": 14.75,
+    "par_gap": 15.0,
+    "font_used": "Aptos"
+   },
+   "1.15": {
+    "lines": 4,
+    "avg_line_pitch": 16.75,
+    "par_gap": 17.25,
+    "font_used": "Aptos"
+   },
+   "1.5": {
+    "lines": 4,
+    "avg_line_pitch": 22.0,
+    "par_gap": 22.5,
+    "font_used": "Aptos"
+   },
+   "Double": {
+    "lines": 4,
+    "avg_line_pitch": 29.25,
+    "par_gap": 30.0,
+    "font_used": "Aptos"
+   }
+  },
+  "Calibri 11pt": {
+   "Single": {
+    "lines": 3,
+    "avg_line_pitch": 13.5,
+    "par_gap": 13.5,
+    "font_used": "Calibri"
+   },
+   "1.15": {
+    "lines": 3,
+    "avg_line_pitch": 15.38,
+    "par_gap": 15.75,
+    "font_used": "Calibri"
+   },
+   "1.5": {
+    "lines": 3,
+    "avg_line_pitch": 20.25,
+    "par_gap": 20.25,
+    "font_used": "Calibri"
+   },
+   "Double": {
+    "lines": 3,
+    "avg_line_pitch": 27.0,
+    "par_gap": 27.0,
+    "font_used": "Calibri"
+   }
+  },
+  "Times New Roman 12pt": {
+   "Single": {
+    "lines": 3,
+    "avg_line_pitch": 13.88,
+    "par_gap": 14.25,
+    "font_used": "Times New Roman"
+   },
+   "1.15": {
+    "lines": 3,
+    "avg_line_pitch": 15.75,
+    "par_gap": 16.5,
+    "font_used": "Times New Roman"
+   },
+   "1.5": {
+    "lines": 3,
+    "avg_line_pitch": 20.62,
+    "par_gap": 21.0,
+    "font_used": "Times New Roman"
+   },
+   "Double": {
+    "lines": 3,
+    "avg_line_pitch": 27.75,
+    "par_gap": 27.75,
+    "font_used": "Times New Roman"
+   }
+  },
+  "Arial 11pt": {
+   "Single": {
+    "lines": 3,
+    "avg_line_pitch": 12.75,
+    "par_gap": 12.75,
+    "font_used": "Arial"
+   },
+   "1.15": {
+    "lines": 3,
+    "avg_line_pitch": 14.62,
+    "par_gap": 15.0,
+    "font_used": "Arial"
+   },
+   "1.5": {
+    "lines": 3,
+    "avg_line_pitch": 19.12,
+    "par_gap": 18.75,
+    "font_used": "Arial"
+   },
+   "Double": {
+    "lines": 3,
+    "avg_line_pitch": 25.12,
+    "par_gap": 26.25,
+    "font_used": "Arial"
+   }
+  }
+ },
+ "space_after_TNR12_double": {
+  "after 0": {
+   "lines": 3,
+   "avg_line_pitch": 27.75,
+   "par_gap": 27.75,
+   "font_used": "Times New Roman"
+  },
+  "after 8pt": {
+   "lines": 3,
+   "avg_line_pitch": 27.75,
+   "par_gap": 35.25,
+   "font_used": "Times New Roman"
+  }
+ },
+ "shift_enter": {
+  "paragraphs": 2,
+  "gap_shift_enter": 15.0,
+  "gap_enter": 22.5
+ },
+ "no_space_same_style": {
+  "gap_off": 22.5,
+  "gap_on": 15.0
+ }
+}

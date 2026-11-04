@@ -1,0 +1,240 @@
+{
+ "version": "16.0 build 16.0.20527",
+ "normal": {
+  "font": "맑은 고딕",
+  "font_fareast": "+본문 한글",
+  "size": 11.0,
+  "rule": 0,
+  "line_spacing_pt": 12.0,
+  "lines": 1.0,
+  "space_before": 0.0,
+  "space_after": 8.0,
+  "no_space_same_style": false,
+  "disable_line_grid": false,
+  "layout_mode": 0,
+  "label": "줄 간격​​"
+ },
+ "default": {
+  "lines_in_par1": 3,
+  "line_pitch": [
+   18.75,
+   19.5
+  ],
+  "par_gap": 27.0
+ },
+ "by_rule_after0": {
+  "1.0 (한 줄)": {
+   "lines_in_par1": 3,
+   "line_pitch": [
+    18.75,
+    19.5
+   ],
+   "par_gap": 18.75
+  },
+  "1.15 (배수)": {
+   "lines_in_par1": 3,
+   "line_pitch": [
+    21.75,
+    21.75
+   ],
+   "par_gap": 22.5
+  },
+  "1.5 줄": {
+   "lines_in_par1": 3,
+   "line_pitch": [
+    28.5,
+    28.5
+   ],
+   "par_gap": 29.25
+  },
+  "2.0 (두 줄)": {
+   "lines_in_par1": 3,
+   "line_pitch": [
+    38.25,
+    37.5
+   ],
+   "par_gap": 39.0
+  },
+  "3.0 (배수)": {
+   "lines_in_par1": 3,
+   "line_pitch": [
+    57.0,
+    57.0
+   ],
+   "par_gap": 57.75
+  },
+  "고정 값 20pt": {
+   "lines_in_par1": 3,
+   "line_pitch": [
+    20.25,
+    19.5
+   ],
+   "par_gap": 20.25
+  },
+  "최소 20pt": {
+   "lines_in_par1": 3,
+   "line_pitch": [
+    20.25,
+    19.5
+   ],
+   "par_gap": 20.25
+  },
+  "고정 값 8pt(글자보다 작게)": {
+   "lines_in_par1": 3,
+   "line_pitch": [
+    8.25,
+    7.5
+   ],
+   "par_gap": 8.25
+  }
+ },
+ "after": {
+  "1.0 + 뒤 0": {
+   "lines_in_par1": 3,
+   "line_pitch": [
+    18.75,
+    19.5
+   ],
+   "par_gap": 18.75
+  },
+  "1.0 + 뒤 8pt": {
+   "lines_in_par1": 3,
+   "line_pitch": [
+    18.75,
+    19.5
+   ],
+   "par_gap": 27.0
+  },
+  "1.0 + 뒤 12pt": {
+   "lines_in_par1": 3,
+   "line_pitch": [
+    18.75,
+    19.5
+   ],
+   "par_gap": 30.75
+  },
+  "2.0 + 뒤 8pt": {
+   "lines_in_par1": 3,
+   "line_pitch": [
+    38.25,
+    37.5
+   ],
+   "par_gap": 46.5
+  }
+ },
+ "single_by_font": {
+  "맑은 고딕 10pt": {
+   "single": [
+    17.25
+   ],
+   "double": [
+    34.5
+   ],
+   "font_used": "맑은 고딕"
+  },
+  "맑은 고딕 11pt": {
+   "single": [
+    18.75
+   ],
+   "double": [
+    38.25
+   ],
+   "font_used": "맑은 고딕"
+  },
+  "바탕 11pt": {
+   "single": [
+    14.25
+   ],
+   "double": [
+    28.5
+   ],
+   "font_used": "바탕"
+  },
+  "굴림 11pt": {
+   "single": [
+    14.25
+   ],
+   "double": [
+    28.5
+   ],
+   "font_used": "굴림"
+  },
+  "돋움 11pt": {
+   "single": [
+    14.25
+   ],
+   "double": [
+    28.5
+   ],
+   "font_used": "돋움"
+  }
+ },
+ "shift_enter": {
+  "paragraphs": 2,
+  "tops": [
+   84.75,
+   103.5,
+   131.25
+  ],
+  "gap_shift_enter": 18.75,
+  "gap_enter": 27.75
+ },
+ "no_space_same_style": {
+  "gap_off": 27.0,
+  "gap_on": 18.75
+ },
+ "line_grid": {
+  "격자 없음 · 격자에 맞춤 켬 · 1.0": [
+   18.75
+  ],
+  "격자 없음 · 격자에 맞춤 켬 · 1.15": [
+   21.75
+  ],
+  "격자 없음 · 격자에 맞춤 켬 · 1.5": [
+   28.5
+  ],
+  "격자 없음 · 격자에 맞춤 끔 · 1.0": [
+   18.75
+  ],
+  "격자 없음 · 격자에 맞춤 끔 · 1.15": [
+   21.75
+  ],
+  "격자 없음 · 격자에 맞춤 끔 · 1.5": [
+   28.5
+  ],
+  "lines_page": 38.0,
+  "줄 격자 · 격자에 맞춤 켬 · 1.0": [
+   36.0
+  ],
+  "줄 격자 · 격자에 맞춤 켬 · 1.15": [
+   36.0
+  ],
+  "줄 격자 · 격자에 맞춤 켬 · 1.5": [
+   36.0
+  ],
+  "줄 격자 · 격자에 맞춤 끔 · 1.0": [
+   18.75
+  ],
+  "줄 격자 · 격자에 맞춤 끔 · 1.15": [
+   21.75
+  ],
+  "줄 격자 · 격자에 맞춤 끔 · 1.5": [
+   28.5
+  ]
+ },
+ "shortcuts": {
+  "Ctrl+1": "SpacePara1",
+  "Ctrl+2": "SpacePara2",
+  "Ctrl+5": "SpacePara15",
+  "Ctrl+0": "Zoom100"
+ },
+ "labels": {
+  "LineSpacingMenu": "줄 간격​​",
+  "ParagraphDialog": "단락​​...",
+  "GroupParagraph": "단락​​",
+  "LineSpacingOptions": null,
+  "AddSpaceBeforeParagraph": null,
+  "RemoveSpaceAfterParagraph": null,
+  "SetAsDefault": null
+ }
+}

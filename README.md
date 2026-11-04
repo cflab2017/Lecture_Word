@@ -2,7 +2,7 @@
 
 사무에서 바로 쓰는 **워드** 를 기초 → 중급 → 고급 순서로 배우는 한국어 강의입니다. 2026년 11월부터 하루 한 편씩 연재합니다.
 
-- 강의 페이지: https://www.coding-now.com/blog/word (1강 발행과 함께 열립니다)
+- 강의 페이지: https://www.coding-now.com/blog/word · English: https://www.coding-now.com/en/blog/word
 - 확인 환경: 워드(Microsoft 365) — 강의에 적은 결과는 모두 이 환경에서 직접 해 보고 옮긴 것입니다.
 
 ## 폴더
@@ -26,6 +26,7 @@
 
 | 단계 | # | 강의 | 핵심 |
 |---|---|---|---|
+| 기초 | 1 | [워드 줄간격 — 1.0·1.15·2.0, 단락 사이 간격](01_기초/01_워드_줄간격/) · [강의](https://www.coding-now.com/blog/word/word-basic-01-line-spacing) | 줄 및 단락 간격 · 단락 뒤 · Shift+Enter · 줄 격자 |
 
 ---
 만든 곳: [코딩나우 CODINGNOW](https://www.coding-now.com)
