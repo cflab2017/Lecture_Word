@@ -1,0 +1,169 @@
+{
+ "run": "2026-11-05T09:52:42",
+ "lang": "ko",
+ "build": "16.0.20527",
+ "default_tab_stop": 40.0,
+ "normal": {
+  "font": "맑은 고딕",
+  "size": 11.0,
+  "left": 0.0,
+  "first": 0.0
+ },
+ "tab_indent_key_option": true,
+ "margin_left": 72.0,
+ "labels": {
+  "IndentIncreaseWord": "들여쓰기",
+  "IndentDecreaseWord": "내어쓰기",
+  "ParagraphIndentLeft": "왼쪽:",
+  "ParagraphIndentRight": "오른쪽:",
+  "IndentLeft": null,
+  "IndentRight": null,
+  "ParagraphDialog": "단락...",
+  "ParagraphMarks": "모두 표시",
+  "ViewRulerWord": "눈금자",
+  "ParagraphOptionsDialog": null,
+  "FormattingMarks": null,
+  "ShowAllFormatting": null
+ },
+ "shortcuts": {
+  "Ctrl+M": "Indent",
+  "Ctrl+T": "HangingIndent",
+  "Ctrl+Q": "ResetPara"
+ },
+ "normal_alignment": 0,
+ "cases": {
+  "없음": {
+   "x": [
+    72.0,
+    72.0
+   ],
+   "first": 0.0,
+   "left": 0.0
+  },
+  "첫 줄 2글자": {
+   "x": [
+    93.75,
+    72.0
+   ],
+   "first": 22.0,
+   "char_unit": 2.0
+  },
+  "첫 줄 1cm": {
+   "x": [
+    100.5,
+    72.0
+   ],
+   "first": 28.350000381469727
+  },
+  "Tab 한 번": {
+   "x": [
+    111.75,
+    72.0
+   ],
+   "first_char_x": 111.75
+  },
+  "띄어쓰기 4칸": {
+   "x": [
+    93.75,
+    72.0
+   ],
+   "first_char_x": 93.75
+  },
+  "띄어쓰기 4칸(다른 단락)": {
+   "x": [
+    93.75,
+    72.0
+   ],
+   "first_char_x": 93.75
+  },
+  "띄어쓰기 4칸 왼쪽 맞춤": {
+   "x": [
+    93.75,
+    72.0
+   ],
+   "first_char_x": 93.75
+  },
+  "왼쪽 2글자": {
+   "x": [
+    93.75,
+    93.75
+   ],
+   "left": 22.0
+  },
+  "내어쓰기 2글자": {
+   "x": [
+    72.0,
+    93.75
+   ],
+   "left": 22.0,
+   "first": -22.0,
+   "char_first": -2.0,
+   "char_left": 0.0
+  },
+  "번호 내어쓰기 2글자": {
+   "x": [
+    72.0,
+    93.75
+   ],
+   "tab_after_number_x": 93.75,
+   "left": 22.0,
+   "first": -22.0
+  },
+  "번호 내어쓰기 없음": {
+   "x": [
+    72.0,
+    72.0
+   ]
+  },
+  "명령 Indent": {
+   "left": 40.05,
+   "first": 0.0,
+   "x": [
+    111.75,
+    111.75
+   ]
+  },
+  "명령 HangingIndent": {
+   "left": 40.0,
+   "first": -40.0,
+   "x": [
+    72.0,
+    111.75
+   ]
+  },
+  "명령 UnIndent": {
+   "left": 40.05,
+   "first": 0.0,
+   "x": [
+    111.75,
+    111.75
+   ]
+  },
+  "단추 IndentIncreaseWord": {
+   "before": [
+    0.0,
+    0.0
+   ],
+   "left": 11.0,
+   "first": 0.0
+  },
+  "단추 IndentDecreaseWord": {
+   "before": [
+    80.0,
+    0.0
+   ],
+   "left": 68.95,
+   "first": 0.0
+  },
+  "글꼴 바탕": {
+   "spaces4_x": 93.75,
+   "indent_x": 93.75,
+   "first": 22.0
+  },
+  "글꼴 Times New Roman": {
+   "spaces4_x": 93.75,
+   "indent_x": 93.75,
+   "first": 22.0
+  }
+ }
+}
