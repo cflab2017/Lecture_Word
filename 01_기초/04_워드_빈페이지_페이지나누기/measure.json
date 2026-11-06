@@ -1,0 +1,129 @@
+{
+ "run": "2026-11-06T12:28:52",
+ "lang": "ko",
+ "build": "16.0.20527",
+ "keys": {
+  "Ctrl+Enter": "InsertPageBreak",
+  "Ctrl+Shift+8": "ShowAll",
+  "Ctrl+Shift+Enter": "InsertColumnBreak"
+ },
+ "labels": {
+  "PageBreakInsertWord": "페이지 나누기",
+  "ParagraphMarks": "모두 표시",
+  "BreaksGallery": "나누기"
+ },
+ "page_break": {
+  "pages_before": 1,
+  "pages_after": 2,
+  "heading_page": 2,
+  "heading_top_pt": 84.8,
+  "heading_text": "2. 쓴 곳",
+  "after_adding_5_lines": {
+   "heading_page": 2,
+   "heading_top_pt": 84.8,
+   "pages": 2
+  },
+  "after_delete": {
+   "pages": 1,
+   "heading_page": 1,
+   "found": true,
+   "chr12_before": 1,
+   "chr12_after": 0
+  }
+ },
+ "enter_push": {
+  "enters_needed": 20,
+  "heading_page": 2,
+  "heading_top_pt": 84.8,
+  "after_adding_5_lines": {
+   "heading_page": 2,
+   "heading_top_pt": 193.5,
+   "pages": 2
+  }
+ },
+ "blank_enters": {
+  "pages_before": 1,
+  "pages_with_60_empty": 3,
+  "pdf_pages": 3,
+  "last_page_chars": 0,
+  "after_delete": 1
+ },
+ "blank_page_break": {
+  "pages_before": 1,
+  "pages_after_break": 2,
+  "pdf_pages": 2,
+  "last_page_chars": 0,
+  "after_delete": {
+   "pages": 1,
+   "found": true,
+   "chr12_before": 1,
+   "chr12_after": 0
+  }
+ },
+ "blank_section_break": {
+  "pages_before": 1,
+  "pages_after_break": 2,
+  "sections": 2,
+  "pdf_pages": 2,
+  "last_page_chars": 0,
+  "after_delete": {
+   "pages": 1,
+   "sections": 1,
+   "found": true,
+   "chr12_before": 1,
+   "chr12_after": 0
+  }
+ },
+ "blank_table_end": {
+  "table_rows": 15,
+  "spacer_space_after": 10.0,
+  "table_last_row_page": 1,
+  "end_para_page": 2,
+  "pages": 2,
+  "pdf_pages": 2,
+  "last_page_chars": 0,
+  "after_delete_try": {
+   "pages": 2,
+   "content_len_change": 0
+  },
+  "fix_font_1pt": {
+   "pages": 1,
+   "end_para_page": 1
+  },
+  "fix_spacing_too": {
+   "pages": 1,
+   "end_para_page": 1,
+   "pdf_pages": 1,
+   "last_page_chars": 710
+  },
+  "fix_hidden": {
+   "pages": 2,
+   "pdf_pages": 2,
+   "last_page_chars": 0
+  }
+ },
+ "files": {
+  "실습.docx": {
+   "made": {
+    "table_rows": 20,
+    "spacer_space_after": 9.0,
+    "table_last_row_page": 2,
+    "end_para_page": 3
+   },
+   "enters": 20,
+   "pdf_pages": 3,
+   "last_page_chars": 0
+  },
+  "정답.docx": {
+   "made": {
+    "table_rows": 20,
+    "spacer_space_after": 9.0,
+    "table_last_row_page": 2,
+    "end_para_page": 3
+   },
+   "enters": 0,
+   "pdf_pages": 2,
+   "last_page_chars": 657
+  }
+ }
+}
