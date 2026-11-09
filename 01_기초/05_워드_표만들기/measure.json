@@ -1,0 +1,103 @@
+{
+ "run": "2026-11-07T10:41:12",
+ "lang": "ko",
+ "build": "16.0.20527",
+ "labels": {
+  "TableInsertGallery": "표",
+  "TableInsert": "ERR (-2147352567, '예외가 발생했습니다.', (0, None, None, None, 0, -21470",
+  "ConvertTextToTable": "텍스트를 표로 변환...",
+  "TableRepeatHeaderRows": "페이지마다 머리글 행 반복",
+  "TableAutoFitContents": "내용에 자동으로 맞춤",
+  "TableAutoFitWindow": "창에 자동으로 맞춤",
+  "TableAutoFitFixedColumnWidth": "고정 열 너비",
+  "TableSplitTable": "표 분할",
+  "TableAutoFitMenu": "자동 맞춤"
+ },
+ "insert_com_default": {
+  "style": "표준 표",
+  "borders": false
+ },
+ "insert_default": {
+  "style": "표 구분선",
+  "rows": 3,
+  "cols": 4,
+  "col_widths_pt": [
+   112.7,
+   112.7,
+   112.7,
+   112.7
+  ],
+  "page_width_pt": 595.3,
+  "text_width_pt": 451.3,
+  "borders": true
+ },
+ "text_to_table_tab": {
+  "rows": 4,
+  "cols": 3,
+  "cell_1_2": "이름"
+ },
+ "text_to_table_comma_inside": {
+  "source": [
+   "서울, 강남,2",
+   "부산,3"
+  ],
+  "rows": 2,
+  "cols": 3,
+  "row1": [
+   "서울",
+   "강남",
+   "2"
+  ]
+ },
+ "repeat_header": {
+  "rows": 46,
+  "off": {
+   "pages": 2,
+   "pages_with_head": [
+    1
+   ]
+  },
+  "on": {
+   "pages": 2,
+   "pages_with_head": [
+    1,
+    2
+   ]
+  },
+  "row2_only": {
+   "pages": 2,
+   "pages_with_head": [
+    1,
+    2
+   ],
+   "row1_flag": true,
+   "row2_flag": true
+  }
+ },
+ "autofit": {
+  "window": [
+   150.2,
+   150.2,
+   150.3
+  ],
+  "window_total": 450.7,
+  "content": [
+   32.8,
+   43.8,
+   86.5
+  ],
+  "content_total": 163.1,
+  "fixed_after_content": [
+   32.8,
+   43.8,
+   86.5
+  ],
+  "fixed_after_content_total": 163.1
+ },
+ "text_above_table": {
+  "table_start_before": 0,
+  "table_start_after": 1,
+  "paragraphs_before_table": 1,
+  "tables": 1
+ }
+}
