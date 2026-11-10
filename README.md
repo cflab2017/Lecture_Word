@@ -30,6 +30,8 @@
 | 기초 | 2 | [워드 들여쓰기 — 첫 줄 · 내어쓰기(둘째 줄 이하)](01_기초/02_워드_들여쓰기/) · [강의](https://www.coding-now.com/blog/word/word-basic-02-indent) | 첫 줄 2글자 = 22pt · 둘째 줄 이하 · Tab 과 차이 · 홈 탭 단추 |
 | 기초 | 3 | [워드 페이지 번호 — 아래쪽 가운데 · 표지 빼고 2쪽부터 1](01_기초/03_워드_페이지번호/) · [강의](https://www.coding-now.com/blog/word/word-basic-03-page-numbers) | 첫 페이지 다르게 · 시작 번호 0 · 직접 친 1 함정 · X / Y 끝 쪽 |
 | 기초 | 4 | [워드 빈 페이지 삭제 · 페이지 나누기 — 표 뒤 빈 쪽 · Ctrl+Enter](01_기초/04_워드_빈페이지_페이지나누기/) · [강의](https://www.coding-now.com/blog/word/word-basic-04-blank-page) | 편집 기호로 원인 찾기 · 표 뒤 단락은 1pt · ^m ^b 모두 바꾸기 · 엔터로 밀면 밀린다 |
+| 기초 | 5 | [워드 표 만들기 — 표 삽입, 텍스트를 표로 변환, 머리글 행 반복](01_기초/05_워드_표만들기/) · [강의](https://www.coding-now.com/blog/word/word-basic-05-make-table) | 표 구분선 · 탭 → 표 · 쉼표 함정 · 머리글 행 반복 |
+| 기초 | 6 | [워드 PDF 변환 — 다른 이름으로 저장 PDF, 메모가 같이 찍힐 때](01_기초/06_워드_PDF변환/) · [강의](https://www.coding-now.com/blog/word/word-basic-06-save-as-pdf) | 메모 풍선 · 문서만 · 최소 크기 절반 · 책갈피 · 쪽 범위 |
 
 ---
 만든 곳: [코딩나우 CODINGNOW](https://www.coding-now.com)

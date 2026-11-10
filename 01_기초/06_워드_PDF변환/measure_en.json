@@ -1,0 +1,215 @@
+{
+ "run": "2026-11-10T09:30:35",
+ "lang": "en",
+ "picture": {
+  "px": [
+   2400,
+   1600
+  ],
+  "png_bytes": 1522373
+ },
+ "word_build": "16.0.20527",
+ "doc": {
+  "comments": 1,
+  "hyperlinks": 1,
+  "headings": 5,
+  "font": "맑은 고딕"
+ },
+ "docx_bytes": 416660,
+ "pdf": {
+  "A_saveas": {
+   "bytes": 153645,
+   "pages": 3,
+   "toc": [
+    [
+     1,
+     "1. What we did",
+     1
+    ],
+    [
+     2,
+     "Members",
+     1
+    ],
+    [
+     2,
+     "Budget",
+     1
+    ],
+    [
+     1,
+     "2. Photos",
+     2
+    ],
+    [
+     1,
+     "3. Next month",
+     2
+    ]
+   ],
+   "uri_links": 1,
+   "fonts": {
+    "BCDEEE+MalgunGothic": "ttf",
+    "BCDFEE+MalgunGothic": "ttf",
+    "BCDGEE+MalgunGothicBold": "ttf"
+   },
+   "images_px": [
+    [
+     944,
+     629
+    ]
+   ],
+   "has_comment_text": true,
+   "metadata_title": "",
+   "metadata_author": "CODINGNOW",
+   "pdfa_hint": null
+  },
+  "B_standard": {
+   "bytes": 200303,
+   "pages": 3,
+   "toc": [],
+   "uri_links": 1,
+   "fonts": {
+    "BCDEEE+MalgunGothic": "ttf",
+    "BCDFEE+MalgunGothic": "ttf"
+   },
+   "images_px": [
+    [
+     1379,
+     919
+    ]
+   ],
+   "has_comment_text": false,
+   "metadata_title": "",
+   "metadata_author": "CODINGNOW",
+   "pdfa_hint": null
+  },
+  "C_minimum": {
+   "bytes": 78300,
+   "pages": 3,
+   "toc": [],
+   "uri_links": 1,
+   "fonts": {
+    "BCDEEE+MalgunGothic": "ttf",
+    "BCDFEE+MalgunGothic": "ttf"
+   },
+   "images_px": [
+    [
+     601,
+     401
+    ]
+   ],
+   "has_comment_text": false,
+   "metadata_title": "",
+   "metadata_author": "CODINGNOW",
+   "pdfa_hint": null
+  },
+  "D_heading_bookmarks": {
+   "bytes": 201059,
+   "pages": 3,
+   "toc": [
+    [
+     1,
+     "1. What we did",
+     1
+    ],
+    [
+     2,
+     "Members",
+     1
+    ],
+    [
+     2,
+     "Budget",
+     1
+    ],
+    [
+     1,
+     "2. Photos",
+     2
+    ],
+    [
+     1,
+     "3. Next month",
+     2
+    ]
+   ],
+   "uri_links": 1,
+   "fonts": {
+    "BCDEEE+MalgunGothic": "ttf",
+    "BCDFEE+MalgunGothic": "ttf"
+   },
+   "images_px": [
+    [
+     1379,
+     919
+    ]
+   ],
+   "has_comment_text": false,
+   "metadata_title": "",
+   "metadata_author": "CODINGNOW",
+   "pdfa_hint": null
+  },
+  "E_with_markup": {
+   "bytes": 152920,
+   "pages": 3,
+   "toc": [],
+   "uri_links": 1,
+   "fonts": {
+    "BCDEEE+MalgunGothic": "ttf",
+    "BCDFEE+MalgunGothic": "ttf",
+    "BCDGEE+MalgunGothicBold": "ttf"
+   },
+   "images_px": [
+    [
+     944,
+     629
+    ]
+   ],
+   "has_comment_text": true,
+   "metadata_title": "",
+   "metadata_author": "CODINGNOW",
+   "pdfa_hint": null
+  },
+  "F_page2_only": {
+   "bytes": 191990,
+   "pages": 1,
+   "toc": [],
+   "uri_links": 0,
+   "fonts": {
+    "BCDEEE+MalgunGothic": "ttf",
+    "BCDFEE+MalgunGothic": "ttf"
+   },
+   "images_px": [
+    [
+     1379,
+     919
+    ]
+   ],
+   "has_comment_text": false,
+   "metadata_title": "",
+   "metadata_author": "CODINGNOW",
+   "pdfa_hint": null
+  },
+  "G_pdfa": {
+   "bytes": 300847,
+   "pages": 3,
+   "toc": [],
+   "uri_links": 1,
+   "fonts": {
+    "BCDEEE+MalgunGothic": "ttf",
+    "BCDFEE+MalgunGothic": "ttf"
+   },
+   "images_px": [
+    [
+     1379,
+     919
+    ]
+   ],
+   "has_comment_text": false,
+   "metadata_title": "",
+   "metadata_author": "CODINGNOW",
+   "pdfa_hint": null
+  }
+ }
+}
