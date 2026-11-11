@@ -32,6 +32,7 @@
 | 기초 | 4 | [워드 빈 페이지 삭제 · 페이지 나누기 — 표 뒤 빈 쪽 · Ctrl+Enter](01_기초/04_워드_빈페이지_페이지나누기/) · [강의](https://www.coding-now.com/blog/word/word-basic-04-blank-page) | 편집 기호로 원인 찾기 · 표 뒤 단락은 1pt · ^m ^b 모두 바꾸기 · 엔터로 밀면 밀린다 |
 | 기초 | 5 | [워드 표 만들기 — 표 삽입, 텍스트를 표로 변환, 머리글 행 반복](01_기초/05_워드_표만들기/) · [강의](https://www.coding-now.com/blog/word/word-basic-05-make-table) | 표 구분선 · 탭 → 표 · 쉼표 함정 · 머리글 행 반복 |
 | 기초 | 6 | [워드 PDF 변환 — 다른 이름으로 저장 PDF, 메모가 같이 찍힐 때](01_기초/06_워드_PDF변환/) · [강의](https://www.coding-now.com/blog/word/word-basic-06-save-as-pdf) | 메모 풍선 · 문서만 · 최소 크기 절반 · 책갈피 · 쪽 범위 |
+| 기초 | 7 | [워드 한글(HWP) 변환 — 워드에서 HWP 가 안 열릴 때, 한글에서 DOCX 로 저장하면 바뀌는 것](01_기초/07_워드_한글변환/) · [강의](https://www.coding-now.com/blog/word/word-basic-07-hwp-conversion) | 워드로 .hwp → 깨진 글자 383쪽 · 아래아 한글 2.0-97 변환기는 '형식이 아닙니다' · 한글 → DOCX 2쪽 → 3쪽 · 쪽 번호 사라짐 · 호환성 모드 |
 
 ---
 만든 곳: [코딩나우 CODINGNOW](https://www.coding-now.com)

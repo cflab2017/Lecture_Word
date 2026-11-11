@@ -1,0 +1,49 @@
+{
+ "s1": {
+  "title": "파일 변환",
+  "class": "bosa_sdm_msword",
+  "texts": [],
+  "offset": [
+   450,
+   266
+  ],
+  "size": [
+   300,
+   320
+  ],
+  "open_error": "명령을 정상적으로 종료할 수 없습니다."
+ },
+ "s3": {
+  "title": "아래아 한글 97 변환기",
+  "class": "#32770",
+  "texts": [
+   "확인",
+   "아래아 한글 2.0-97 형식이 아닙니다."
+  ],
+  "offset": [
+   455,
+   347
+  ],
+  "size": [
+   289,
+   159
+  ],
+  "open_error": "파일을 열 수 없습니다."
+ },
+ "s2": {
+  "pages": 383,
+  "chars": 57533
+ },
+ "s4": {
+  "pages": 3,
+  "font": "함초롬바탕",
+  "size": 10.0,
+  "line_rule": 5,
+  "line_pt": 19.200000762939453,
+  "footer": "",
+  "compat_mode": 12,
+  "first_para_empty": false,
+  "body_para_index": 2,
+  "selected_font_box": "함초롬바탕"
+ }
+}

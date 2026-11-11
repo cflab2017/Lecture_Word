@@ -1,0 +1,453 @@
+{
+ "run": "2026-11-11T10:04:40",
+ "lang": "ko",
+ "word_build": "16.0.20527",
+ "word_converters": [
+  {
+   "name": "아래아 한글 2.0-97",
+   "ext": "HWP",
+   "class": "ARA20",
+   "open": true,
+   "save": true
+  },
+  {
+   "name": "아래아 한글 2.1/2.5",
+   "ext": "HWP",
+   "class": "ARA21",
+   "open": false,
+   "save": true
+  },
+  {
+   "name": "모든 파일의 텍스트 복구",
+   "ext": "*",
+   "class": "Recover",
+   "open": true,
+   "save": false
+  },
+  {
+   "name": "WordPerfect 6.x",
+   "ext": "wpd doc",
+   "class": "WordPerfect6x",
+   "open": true,
+   "save": false
+  },
+  {
+   "name": "WordPerfect 5.x",
+   "ext": "doc",
+   "class": "WrdPrfctDos",
+   "open": true,
+   "save": false
+  },
+  {
+   "name": "PDF Files",
+   "ext": "pdf",
+   "class": "IFDP",
+   "open": true,
+   "save": false
+  }
+ ],
+ "W_word_docx": {
+  "pages": 3,
+  "paragraphs": 35,
+  "title_found": true,
+  "tables": [
+   [
+    3,
+    3,
+    "날짜"
+   ]
+  ],
+  "inline_pictures": 1,
+  "floating_shapes": 0,
+  "fonts": {
+   "맑은 고딕": 30,
+   "+본문 한글": 30
+  },
+  "sizes": {
+   "16.0": 1,
+   "11.0": 28,
+   "13.0": 1
+  },
+  "title": {
+   "text": "사진 동아리 12월 모임 안내\r",
+   "font": "맑은 고딕",
+   "far_east": "+본문 한글",
+   "size": 16.0,
+   "bold": -1,
+   "line_rule": 0,
+   "line_pt": 12.0,
+   "before": 0.0,
+   "after": 8.0
+  },
+  "body": {
+   "text": "연습용으로 만든 가상 사진 동아리",
+   "font": "맑은 고딕",
+   "far_east": "+본문 한글",
+   "size": 11.0,
+   "bold": 0,
+   "line_rule": 0,
+   "line_pt": 12.0,
+   "before": 0.0,
+   "after": 8.0
+  },
+  "footer_text": "1",
+  "footer_fields": [
+   "PAGE"
+  ],
+  "footer_page_numbers": 1,
+  "footer_shapes": 0,
+  "page_mm": [
+   210.0,
+   297.0
+  ],
+  "margins_mm": [
+   30.0,
+   25.4,
+   25.4,
+   25.4
+  ]
+ },
+ "W_word_pdf": {
+  "pages": 3,
+  "fonts": [
+   "BCDEEE+MalgunGothic",
+   "BCDFEE+MalgunGothic",
+   "BCDGEE+MalgunGothicBold",
+   "BCDHEE+MalgunGothicBold"
+  ],
+  "images": 1,
+  "page_bottom_text": [
+   "1",
+   "2",
+   "3"
+  ],
+  "bytes": 102849
+ },
+ "hangul_version": "13, 0, 0, 4132",
+ "W_open_in_hangul": {
+  "open": true,
+  "pages": 3
+ },
+ "W_save_hwp": {
+  "ok": true,
+  "bytes": 65024,
+  "compat_dialog": []
+ },
+ "W_save_hwpx": {
+  "ok": true,
+  "bytes": 65199,
+  "compat_dialog": []
+ },
+ "W_hwpx": {
+  "bytes": 65199,
+  "fonts_hangul": [
+   "한컴바탕",
+   "맑은 고딕"
+  ],
+  "title": {
+   "text": "사진 동아리 12월 모임 안내",
+   "font": "맑은 고딕",
+   "size_pt": 16.0,
+   "bold": true,
+   "line_spacing": [
+    "PERCENT",
+    100
+   ]
+  },
+  "head": {
+   "text": "일정",
+   "font": "맑은 고딕",
+   "size_pt": 13.0,
+   "bold": true,
+   "line_spacing": [
+    "PERCENT",
+    100
+   ]
+  },
+  "body": {
+   "text": "연습용으로 만든 가상 사진 동아리",
+   "font": "맑은 고딕",
+   "size_pt": 11.0,
+   "bold": false,
+   "line_spacing": [
+    "PERCENT",
+    100
+   ]
+  },
+  "text_runs": 29,
+  "tables": [
+   [
+    3,
+    3
+   ]
+  ],
+  "pictures": 1,
+  "page_num_ctrl": 0,
+  "footer_ctrl": 1,
+  "auto_num_page": 1,
+  "page_mm": [
+   210.0,
+   297.0
+  ],
+  "margin_raw": "<hp:margin header=\"4250\" footer=\"2240\" gutter=\"0\" left=\"7200\" right=\"7200\" top=\"4255\" bottom=\"4960\""
+ },
+ "W_save_pdf": {
+  "ok": true,
+  "bytes": 45950,
+  "compat_dialog": []
+ },
+ "W_hangul_pdf": {
+  "pages": 3,
+  "fonts": [
+   "INPILL+MalgunGothic",
+   "INPILL+MalgunGothicBold"
+  ],
+  "images": 1,
+  "page_bottom_text": [
+   "1",
+   "2",
+   "3"
+  ],
+  "bytes": 45950
+ },
+ "H_table_create": true,
+ "H_picture": true,
+ "H_page_num": true,
+ "H_save_hwp": {
+  "ok": true,
+  "bytes": 81408,
+  "compat_dialog": []
+ },
+ "H_pages_in_hangul": 2,
+ "H_save_hwpx": {
+  "ok": true,
+  "bytes": 80163,
+  "compat_dialog": []
+ },
+ "H_hwpx": {
+  "bytes": 80163,
+  "fonts_hangul": [
+   "함초롬돋움",
+   "함초롬바탕"
+  ],
+  "title": {
+   "text": "사진 동아리 12월 모임 안내",
+   "font": "함초롬바탕",
+   "size_pt": 16.0,
+   "bold": true,
+   "line_spacing": [
+    "PERCENT",
+    160
+   ]
+  },
+  "head": {
+   "text": "일정",
+   "font": "함초롬바탕",
+   "size_pt": 13.0,
+   "bold": true,
+   "line_spacing": [
+    "PERCENT",
+    160
+   ]
+  },
+  "body": {
+   "text": "연습용으로 만든 가상 사진 동아리",
+   "font": "함초롬바탕",
+   "size_pt": 10.0,
+   "bold": false,
+   "line_spacing": [
+    "PERCENT",
+    160
+   ]
+  },
+  "text_runs": 29,
+  "tables": [
+   [
+    3,
+    3
+   ]
+  ],
+  "pictures": 1,
+  "page_num_ctrl": 1,
+  "footer_ctrl": 0,
+  "auto_num_page": 0,
+  "page_mm": [
+   210.0,
+   297.0
+  ],
+  "margin_raw": "<hp:margin header=\"4252\" footer=\"4252\" gutter=\"0\" left=\"8504\" right=\"8504\" top=\"5668\" bottom=\"4252\""
+ },
+ "H_save_pdf": {
+  "ok": true,
+  "bytes": 39544,
+  "compat_dialog": []
+ },
+ "H_hangul_pdf": {
+  "pages": 2,
+  "fonts": [
+   "INPILL+HCRBatang",
+   "INPILL+HCRBatang-Bold",
+   "INPILL+HCRDotum"
+  ],
+  "images": 1,
+  "page_bottom_text": [
+   "- 1 - 한 번 모여 찍은 사진을 함께 보고 다음 출사 계획을 정합니다. 연습용으로 만든 가상 사진 동아리의 안내문입니다. 한 달에 한 번 모여 찍은 사진을 함께 보",
+   "- 2 -"
+  ],
+  "bytes": 39544
+ },
+ "H_save_docx": {
+  "ok": true,
+  "bytes": 13156,
+  "compat_dialog": [
+   [
+    "hangul",
+    "호환 문서",
+    "Enter(계속)"
+   ]
+  ]
+ },
+ "H_save_docx_name_DOCX": {
+  "ok": false,
+  "note": "SaveAs 형식 이름 'DOCX' 는 False — 'OOXML' 로만 저장됨(11/11 시험)"
+ },
+ "H_docx_in_word": {
+  "pages": 3,
+  "paragraphs": 35,
+  "title_found": true,
+  "tables": [
+   [
+    3,
+    3,
+    "날짜"
+   ]
+  ],
+  "inline_pictures": 1,
+  "floating_shapes": 0,
+  "fonts": {
+   "함초롬바탕": 60
+  },
+  "sizes": {
+   "16.0": 1,
+   "10.0": 28,
+   "13.0": 1
+  },
+  "title": {
+   "text": "사진 동아리 12월 모임 안내\r",
+   "font": "함초롬바탕",
+   "far_east": "함초롬바탕",
+   "size": 16.0,
+   "bold": -1,
+   "line_rule": 5,
+   "line_pt": 19.2,
+   "before": 0.0,
+   "after": 0.0
+  },
+  "body": {
+   "text": "연습용으로 만든 가상 사진 동아리",
+   "font": "함초롬바탕",
+   "far_east": "함초롬바탕",
+   "size": 10.0,
+   "bold": 0,
+   "line_rule": 5,
+   "line_pt": 19.2,
+   "before": 0.0,
+   "after": 0.0
+  },
+  "footer_text": "",
+  "footer_fields": [],
+  "footer_page_numbers": 0,
+  "footer_shapes": 0,
+  "page_mm": [
+   210.0,
+   297.0
+  ],
+  "margins_mm": [
+   35.0,
+   30.0,
+   30.0,
+   30.0
+  ]
+ },
+ "H_docx_word_pdf": {
+  "pages": 3,
+  "fonts": [
+   "BCDEEE+MalgunGothic",
+   "BCDFEE+HCRBatang-Bold",
+   "BCDGEE+HCRBatang-Bold",
+   "BCDHEE+HCRBatang",
+   "BCDIEE+HCRBatang"
+  ],
+  "images": 1,
+  "page_bottom_text": [
+   "고 다음 출사 계획을 정합니다. 연습용으로 만든 가상 사진 동아리의 안내문입니다. 한 달에",
+   "고 다음 출사 계획을 정합니다. 연습용으로 만든 가상 사진 동아리의 안내문입니다. 한 달에",
+   "참석할 수 있는 분은 금요일까지 알려 주세요."
+  ],
+  "bytes": 102536
+ },
+ "ara20_open_format": 31,
+ "word_open_hwp": {
+  "opened": true,
+  "chars": 57552,
+  "pages": 390,
+  "first_text": "饉\u0011胥??\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000?\t\u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0007\u0000\u0000\u0000",
+  "dialogs": []
+ },
+ "word_open_hwp_ara20": {
+  "opened": false,
+  "error": "파일을 열 수 없습니다.",
+  "dialogs": [
+   [
+    "word",
+    "아래아 한글 97 변환기",
+    [
+     "확인",
+     "아래아 한글 2.0-97 형식이 아닙니다."
+    ]
+   ]
+  ]
+ },
+ "word_open_hwpx": {
+  "opened": false,
+  "error": "파일이 손상되었습니다.",
+  "dialogs": []
+ },
+ "dialogs_seen": [
+  [
+   "hangul",
+   "호환 문서",
+   "Enter(계속)"
+  ],
+  [
+   "word",
+   "아래아 한글 97 변환기",
+   [
+    "확인",
+    "아래아 한글 2.0-97 형식이 아닙니다."
+   ]
+  ]
+ ],
+ "meta": {
+  "pc_user_in_native_hwp": true,
+  "pc_user_in_docx_to_hwp": true,
+  "hwp_to_docx_creator": [
+   "user"
+  ],
+  "hwp_to_docx_lastmod": [
+   "user"
+  ]
+ },
+ "hwp_to_docx_parts": [
+  "[Content_Types].xml",
+  "_rels/.rels",
+  "docProps/app.xml",
+  "docProps/core.xml",
+  "word/_rels/document.xml.rels",
+  "word/document.xml",
+  "word/media/image0.png",
+  "word/numbering.xml",
+  "word/settings.xml",
+  "word/styles.xml"
+ ]
+}
