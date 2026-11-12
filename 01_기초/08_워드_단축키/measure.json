@@ -1,0 +1,187 @@
+{
+  "when": "2026-11-12T16:18:59",
+  "file": "실습.docx",
+  "how": "FindKey + WordBasic(숨긴 워드)",
+  "bindings": {
+    "Ctrl+B": "Bold",
+    "Ctrl+I": "Italic",
+    "Ctrl+U": "Underline",
+    "Ctrl+E": "CenterPara",
+    "Ctrl+L": "LeftPara",
+    "Ctrl+R": "RightPara",
+    "Ctrl+J": "JustifyPara",
+    "Ctrl+]": "GrowFontOnePoint",
+    "Ctrl+[": "ShrinkFontOnePoint",
+    "Ctrl+Shift+>": "GrowFont",
+    "Ctrl+Shift+<": "ShrinkFont",
+    "Ctrl+Space": "ResetChar",
+    "Ctrl+Q": "ResetPara",
+    "Ctrl+1": "SpacePara1",
+    "Ctrl+2": "SpacePara2",
+    "Ctrl+5": "SpacePara15",
+    "Ctrl+M": "Indent",
+    "Ctrl+Shift+M": "UnIndent",
+    "Ctrl+T": "HangingIndent",
+    "Ctrl+Shift+T": "UnHang",
+    "Shift+Enter": "\u000b",
+    "Ctrl+Enter": "InsertPageBreak",
+    "Ctrl+Shift+8": "ShowAll",
+    "F4": "EditRedoOrRepeat",
+    "Shift+F3": "ChangeCase",
+    "Ctrl+Shift+C": "",
+    "Ctrl+Shift+V": "PasteTextOnly",
+    "Ctrl+H": "EditReplace",
+    "Ctrl+A": "EditSelectAll",
+    "Ctrl+Z": "EditUndo",
+    "Ctrl+Y": "EditRedoOrRepeat"
+  },
+  "title_before": {
+    "bold": 0,
+    "size": 11.0,
+    "underline": 0,
+    "align": 0
+  },
+  "ctrl_bracket_right_sizes_from_11": [
+    12.0,
+    13.0,
+    14.0
+  ],
+  "ctrl_bracket_left_size": 13.0,
+  "ctrl_shift_gt_steps_from_13": [
+    14.0,
+    16.0,
+    18.0,
+    20.0
+  ],
+  "ctrl_shift_lt_after": 18.0,
+  "title_after": {
+    "bold": -1,
+    "size": 18.0,
+    "underline": 0,
+    "align": 1
+  },
+  "ctrl_space_title": {
+    "bold": 0,
+    "size": 11.0,
+    "underline": 0,
+    "align": 1
+  },
+  "ctrl_q_title": {
+    "bold": 0,
+    "size": 11.0,
+    "underline": 0,
+    "align": 0
+  },
+  "align_p2": {
+    "Ctrl+R": 2,
+    "Ctrl+J": 3,
+    "Ctrl+E": 1,
+    "Ctrl+L": 0
+  },
+  "line_spacing_p2": {
+    "Ctrl+2": {
+      "rule": 2,
+      "spacing": 24.0
+    },
+    "Ctrl+5": {
+      "rule": 1,
+      "spacing": 18.0
+    },
+    "Ctrl+1": {
+      "rule": 0,
+      "spacing": 12.0
+    }
+  },
+  "indent_p3": [
+    {
+      "key": "Ctrl+M",
+      "left": 40.05,
+      "first": 0.0
+    },
+    {
+      "key": "Ctrl+M",
+      "left": 79.95,
+      "first": 0.0
+    },
+    {
+      "key": "Ctrl+Shift+M",
+      "left": 40.05,
+      "first": 0.0
+    },
+    {
+      "key": "Ctrl+Shift+M",
+      "left": 0.0,
+      "first": 0.0
+    },
+    {
+      "key": "Ctrl+T",
+      "left": 40.0,
+      "first": -40.0
+    },
+    {
+      "key": "Ctrl+T",
+      "left": 80.0,
+      "first": -80.0
+    },
+    {
+      "key": "Ctrl+Shift+T",
+      "left": 40.0,
+      "first": -40.0
+    }
+  ],
+  "ctrl_q_p3": {
+    "left": 0.0,
+    "first": 0.0
+  },
+  "default_tab_stop": 40.0,
+  "shift_enter": {
+    "paras_before": 6,
+    "paras_after": 6,
+    "char_code": 11
+  },
+  "p3_after_shift_enter": "일시: 11월 21일(토) 오후 2시↵비가 오면 28일(토)로 미룹니다¶",
+  "enter": {
+    "paras_before": 6,
+    "paras_after": 7,
+    "space_after_pt": 8.0
+  },
+  "ctrl_enter": {
+    "pages_before": 1,
+    "pages_after": 2,
+    "char_code": 13
+  },
+  "undo_after_ctrl_enter_pages": 1,
+  "ctrl_shift_8": {
+    "before": false,
+    "after": true,
+    "again": false
+  },
+  "run_errors": [
+    [
+      "",
+      "이 명령은 사용할 수 없습니다."
+    ],
+    [
+      "PasteTextOnly",
+      "(-2147352570, '알 수 없는 이름입니다.', None, None)"
+    ]
+  ],
+  "format_paste_p6": {
+    "bold": 0,
+    "size": 11.0,
+    "color": -16777216,
+    "align": 0
+  },
+  "shift_f3_cycle": [
+    "Photo Walk",
+    "PHOTO WALK",
+    "photo walk",
+    "Photo Walk"
+  ],
+  "f4_repeat": {
+    "p4_underline": 1,
+    "p5_underline_after_F4": 0,
+    "p3_untouched": 0
+  },
+  "doc_text_end": "사진 동아리 11월 정기 모임 안내¶이번 달 정기 모임은 야외 촬영(photo walk)으로 진행합니다. 카메라가 없으면 휴대폰으로 찍어도 됩니다.¶일시: 11월 21일(토) 오후 2시¶장소: 시민공원 정문 앞¶준비물: 카메라 또는 휴대폰, 여분 배터리¶문의: 총무 김하늘¶"
+}
